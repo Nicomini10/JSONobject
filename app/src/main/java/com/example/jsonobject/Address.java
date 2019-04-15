@@ -24,7 +24,7 @@ public class Address {
         this.street = street;
     }
 
-    public String getCity(String city){
+    public String getCity(){
         return city;
     }
 
